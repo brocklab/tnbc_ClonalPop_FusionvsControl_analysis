@@ -1,0 +1,9 @@
+Vessel Name: KH2404_A2H_F4_C4_redo_GR
+Metric: GFP Area Object Average (µm²)
+Cell Type: 1806_F4, 1806_C4
+Passage: 5
+Notes: passage numbers not correct
+Analysis: KKH_CMDuoBulk_optimized_v2
+
+Date Time	Elapsed	1806_C4 (5) 5K / well	1806_C4 (5) 5K / well (Std Err Img)
+2/11/2025 6:01:00 AM	0	471.5908	0

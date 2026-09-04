@@ -1,0 +1,9 @@
+Vessel Name: KH2404_A2H_F2GrowthRate
+Metric: mCherry Area Object Average (µm²)
+Cell Type: 1806_F2
+Passage: 5
+Notes: 
+Analysis: KKH_CMDuoBulk_optimized_v2
+
+Date Time	Elapsed	1806_F2 (5) 5K / well	1806_F2 (5) 5K / well (Std Err Img)
+7/20/2024 4:02:00 AM	0	552.0464	0

@@ -1,0 +1,9 @@
+Vessel Name: KH2404_A2H_F5_C8_GrowthRate
+Metric: GFP Area Object Average (µm²)
+Cell Type: 1806_F5, 1806_C8
+Passage: 5
+Notes: passage numbers not correct
+Analysis: KKH_CMDuoBulk_optimized_v2
+
+Date Time	Elapsed	1806_C8 (5) 5K / well	1806_C8 (5) 5K / well (Std Err Img)
+1/15/2025 7:40:00 AM	0	547.8936	0

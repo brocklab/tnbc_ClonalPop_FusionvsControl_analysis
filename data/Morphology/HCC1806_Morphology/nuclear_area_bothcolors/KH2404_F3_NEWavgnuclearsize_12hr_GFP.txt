@@ -1,0 +1,9 @@
+Vessel Name: KH2404_A2H_F3_C1_GrowthRate
+Metric: GFP Area Object Average (µm²)
+Cell Type: 1806_F3, 1806_C1
+Passage: 1
+Notes: 
+Analysis: KKH_CMDuoBulk_optimized_v2
+
+Date Time	Elapsed	1806_F3 (8) 5K / well	1806_F3 (8) 5K / well (Std Err Img)
+8/3/2024 5:41:00 AM	0	625.3959	0
